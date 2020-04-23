@@ -15,5 +15,5 @@ $ docker ps
 $ docker inspect 6ab
 
 # connecting through ssh with password
-$ ssh shahjalal@172.17.0.9
+$ ssh root@172.17.0.9
 ```
